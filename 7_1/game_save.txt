@@ -1,3 +1,0 @@
-Knight 150 5
-Goblin 20 1
-Dragon 500 12
